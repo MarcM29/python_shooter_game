@@ -13,7 +13,6 @@ from mainscreen import startScreen
 
 class Background(object):
 
-
     def __init__(self):
         #Initializes variables
         #sets canvas size
