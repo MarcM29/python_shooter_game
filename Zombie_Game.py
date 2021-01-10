@@ -1,7 +1,5 @@
 #Authors: Marc, Navdeep
-#Purpose: To make a sweet game
 #Date Started: May 23, 2016
-#Date Last Edited: Today
 #
 import pygame
 pygame.init()
