@@ -1,4 +1,4 @@
-#Authors: Marc, Navdeep, Duncan, (Adi)
+#Authors: Marc, Navdeep
 #Purpose: To make a sweet game
 #Date Started: May 23, 2016
 #Date Last Edited: Today
